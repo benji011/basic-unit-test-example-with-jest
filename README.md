@@ -1,7 +1,8 @@
 # Basic unit test example with Jest
 
-[![Jest](https://github.com/MarioTerron/logo-images/blob/master/logos/jest.png)](https://facebook.github.io/jest/)  
-
+<p align="center">
+    <img src="https://github.com/MarioTerron/logo-images/blob/master/logos/jest.png"/>
+</p>
 
 An extremely minimal & very basic example of unit testing using Jest.
 
